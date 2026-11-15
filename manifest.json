@@ -1,0 +1,35 @@
+{
+  "manifest_version": 3,
+  "name": "Palm Siesta Theme",
+  "version": "1.0.0",
+  "description": "A warm Mediterranean Chrome theme: rose chrome, a sand toolbar and a butter New Tab Page.",
+  "icons": {
+    "128": "logo/logo.png"
+  },
+  "theme": {
+    "colors": {
+      "frame":                        [236, 171, 178],
+      "frame_inactive":               [242, 188, 194],
+      "toolbar":                      [237, 212, 185],
+      "tab_text":                     [75, 50, 43],
+      "bookmark_text":                [75, 50, 43],
+      "ntp_background":               [251, 237, 191],
+      "ntp_text":                     [75, 50, 43],
+      "ntp_link":                     [163, 74, 82],
+      "ntp_header":                   [251, 237, 191],
+      "button_background":            [169, 230, 221],
+      "button_background_secondary":  [249, 218, 129],
+      "omnibox_background":           [255, 255, 255],
+      "omnibox_text":                 [75, 50, 43],
+      "toolbar_button_icon":          [75, 50, 43]
+    },
+    "properties": {
+      "ntp_button_background":    [169, 230, 221],
+      "ntp_button_hover":         [143, 208, 199],
+      "ntp_logo_alternate":       1,
+      "ntp_single_row_shortcuts": true
+    },
+    "color_scheme": "light",
+    "default_color_scheme": "light"
+  }
+}
